@@ -17,4 +17,5 @@ int main() {
   printf("new test");
   printf("test 3");
   printf("word 4");
+  printf("another test");
 }
