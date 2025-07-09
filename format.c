@@ -14,4 +14,5 @@ int main() {
   printf("test!");
   printf("new test");
   printf("I did this");
+  printf("new test");
 }
