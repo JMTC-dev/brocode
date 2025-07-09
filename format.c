@@ -12,4 +12,5 @@ int main() {
   printf("new  test");
   printf("bosh!");
   printf("test!");
+  printf("new test");
 }
